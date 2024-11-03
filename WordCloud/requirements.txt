@@ -1,0 +1,2 @@
+wordcloud                 1.9.2           py310h5eee18b_0
+matplotlib                3.7.1           py310h06a4308_1
