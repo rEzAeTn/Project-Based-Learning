@@ -10,7 +10,6 @@ number_guesser/
 |-- src/
 | |-- main.py
 | |-- game_logic/
-| | |-- init.py
 | | |-- random_number_generator.py
 | | |-- hint_generator.py
 | | |-- scorer.py

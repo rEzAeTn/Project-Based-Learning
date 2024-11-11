@@ -30,10 +30,10 @@ def main():
     score = 100
 
     while True:
-        user_guess = input("Guess a  Number")
+        user_guess = input("Guess a  Number ")
 
         # Calculate Score
-        score = max(score, 0)
+        score = max(0, score)
         if score == 0 :
             print(f'Your Score is: {score}')
             print('GAME OVER')
