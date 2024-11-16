@@ -33,7 +33,7 @@ number_guesser/
 
 ## How To Run
 - Clone the repository to your local system.
-  ```bash
+```bash
 git clone https://github.com/rEzAeTn/Project-Based-Learning.git/Number Guesser Game
 cd rock-paper-scissors
 ```
